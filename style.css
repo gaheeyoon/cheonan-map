@@ -64,6 +64,131 @@ footer {
   margin-left: 3%;
   margin-top: 1%;
 }
+#mapArea #ryuga * {
+  left: 30%;
+  top: 35%;
+}
+#mapArea #bongpyeong * {
+  left: 39%;
+  top: 35%;
+}
+#mapArea #bongpyeong .name {
+  margin-left: -0.5%;
+  margin-top: 3.5%;
+}
+#mapArea #kbs * {
+  left: 43%;
+  top: 40%;
+}
+#mapArea #kbs .name {
+  margin-left: -2%;
+  margin-top: 4%;
+}
+#mapArea #santorini * {
+  left: 25%;
+  top: 33%;
+}
+#mapArea #santorini .name {
+  margin-left: -1%;
+  margin-top: 3%;
+}
+#mapArea #independence * {
+  left: 54%;
+  top: 62%;
+}
+#mapArea #independence .name {
+  margin-left: -1%;
+  margin-top: 4%;
+}
+#mapArea #harleywood * {
+  left: 52%;
+  top: 50%;
+}
+#mapArea #harleywood .name {
+  margin-left: 2.5%;
+  margin-top: 1%;
+}
+#mapArea #toujour * {
+  left: 47%;
+  top: 61%;
+}
+#mapArea #toujour .name {
+  margin-left: 2.5%;
+  margin-top: 1%;
+}
+#mapArea #anra * {
+  left: 50%;
+  top: 46%;
+}
+#mapArea #anra .name {
+  margin-left: 2.5%;
+  margin-top: 1%;
+}
+#mapArea #romantic2wheel * {
+  left: 49%;
+  top: 53%;
+}
+#mapArea #romantic2wheel .name {
+  margin-left: 2.5%;
+  margin-top: 1%;
+}
+#mapArea #hara * {
+  left: 46%;
+  top: 56%;
+}
+#mapArea #hara .name {
+  margin-left: 2.5%;
+  margin-top: 1%;
+}
+#mapArea #bambari * {
+  left: 50%;
+  top: 32%;
+}
+#mapArea #bambari .name {
+  margin-left: 2.5%;
+  margin-top: 1%;
+}
+#mapArea #funky * {
+  left: 84%;
+  top: 23%;
+}
+#mapArea #funky .name {
+  margin-left: 2.5%;
+  margin-top: 1%;
+}
+#mapArea #bike01 * {
+  left: 71%;
+  top: 20%;
+}
+#mapArea #bike01 img {
+  transform: rotateY(180deg) rotateZ(335deg);
+}
+#mapArea #bike01 .name {
+  margin-left: 4%;
+  margin-top: 1%;
+}
+#mapArea #bike02 * {
+  left: 71.5%;
+  top: 10%;
+}
+#mapArea #bike02 img {
+  transform: rotateY(180deg) rotateZ(307deg);
+}
+#mapArea #bike02 .name {
+  margin-left: 3.5%;
+  margin-top: 2%;
+}
+#mapArea #bike03 * {
+  left: 85.5%;
+  top: 6%;
+}
+#mapArea #bike03 img {
+  transform: rotateZ(26deg);
+}
+#mapArea #bike03 .name {
+  margin-left: 3.5%;
+  margin-top: 2%;
+}
 
 #mapList ul,
 #mapList li {
