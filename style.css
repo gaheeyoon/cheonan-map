@@ -60,91 +60,112 @@ footer {
   left: 2%;
   bottom: 2%;
 }
-#mapArea #oil00 .name {
-  margin-left: 3%;
-  margin-top: 1%;
+#mapArea #oil01 * {
+  left: 22%;
+  top: 47%;
 }
+#mapArea #oil02 * {
+  left: 43%;
+  top: 30%;
+}
+#mapArea #oil03 * {
+  left: 52%;
+  top: 27%;
+}
+#mapArea #oil04 * {
+  left: 46%;
+  top: 56%;
+}
+
 #mapArea #ryuga * {
-  left: 30%;
-  top: 35%;
+  left: 32%;
+  top: 36%;
 }
 #mapArea #bongpyeong * {
-  left: 39%;
-  top: 35%;
+  left: 44%;
+  top: 43%;
 }
 #mapArea #bongpyeong .name {
-  margin-left: -0.5%;
-  margin-top: 3.5%;
+  margin-left: 0%;
+  margin-top: 3.3%;
 }
 #mapArea #kbs * {
-  left: 43%;
-  top: 40%;
+  left: 52%;
+  top: 47%;
 }
 #mapArea #kbs .name {
-  margin-left: -2%;
+  margin-left: -1%;
   margin-top: 4%;
 }
 #mapArea #santorini * {
-  left: 25%;
-  top: 33%;
+  left: 27%;
+  top: 46%;
 }
 #mapArea #santorini .name {
-  margin-left: -1%;
+  margin-left: 0%;
   margin-top: 3%;
 }
+#mapArea #arario * {
+  left: 44%;
+  top: 37%;
+}
+#mapArea #arario .name {
+  margin-left: 0%;
+  margin-top: 3%;
+}
+#mapArea #flostree * {
+  left: 51%;
+  top: 54%;
+}
+#mapArea #flostree .name {
+  margin-left: -1%;
+  margin-top: 3.3%;
+}
 #mapArea #independence * {
-  left: 54%;
-  top: 62%;
+  left: 57%;
+  top: 54%;
 }
 #mapArea #independence .name {
-  margin-left: -1%;
-  margin-top: 4%;
+  margin-left: 0%;
+  margin-top: 4.3%;
 }
 #mapArea #harleywood * {
-  left: 52%;
-  top: 50%;
+  left: 49%;
+  top: 43%;
 }
 #mapArea #harleywood .name {
   margin-left: 2.5%;
   margin-top: 1%;
 }
 #mapArea #toujour * {
-  left: 47%;
-  top: 61%;
+  left: 40%;
+  top: 41%;
 }
 #mapArea #toujour .name {
   margin-left: 2.5%;
   margin-top: 1%;
 }
 #mapArea #anra * {
-  left: 50%;
-  top: 46%;
+  left: 49%;
+  top: 37%;
 }
 #mapArea #anra .name {
   margin-left: 2.5%;
   margin-top: 1%;
 }
 #mapArea #romantic2wheel * {
-  left: 49%;
-  top: 53%;
+  left: 40%;
+  top: 36%;
 }
 #mapArea #romantic2wheel .name {
-  margin-left: 2.5%;
-  margin-top: 1%;
+  margin-left: -0.5%;
+  margin-top: 2%;
 }
 #mapArea #hara * {
-  left: 46%;
-  top: 56%;
+  left: 40%;
+  top: 53%;
 }
 #mapArea #hara .name {
-  margin-left: 2.5%;
-  margin-top: 1%;
-}
-#mapArea #bambari * {
-  left: 50%;
-  top: 32%;
-}
-#mapArea #bambari .name {
   margin-left: 2.5%;
   margin-top: 1%;
 }
