@@ -60,13 +60,17 @@ footer {
   left: 2%;
   bottom: 2%;
 }
+#mapArea #oil00 .name {
+  left: 5%;
+  bottom: 2%;
+}
 #mapArea #oil01 * {
   left: 22%;
   top: 47%;
 }
 #mapArea #oil02 * {
   left: 43%;
-  top: 30%;
+  top: 29%;
 }
 #mapArea #oil03 * {
   left: 52%;
@@ -74,7 +78,7 @@ footer {
 }
 #mapArea #oil04 * {
   left: 46%;
-  top: 56%;
+  top: 57%;
 }
 
 #mapArea #ryuga * {
@@ -83,7 +87,7 @@ footer {
 }
 #mapArea #bongpyeong * {
   left: 44%;
-  top: 43%;
+  top: 45%;
 }
 #mapArea #bongpyeong .name {
   margin-left: 0%;
@@ -114,16 +118,18 @@ footer {
   margin-top: 3%;
 }
 #mapArea #flostree * {
-  left: 51%;
-  top: 54%;
+  left: 50%;
+  top: 55%;
 }
 #mapArea #flostree .name {
   margin-left: -1%;
   margin-top: 3.3%;
+  text-align: center;
+  line-height: 1em;
 }
 #mapArea #independence * {
   left: 57%;
-  top: 54%;
+  top: 55%;
 }
 #mapArea #independence .name {
   margin-left: 0%;
@@ -131,7 +137,7 @@ footer {
 }
 #mapArea #harleywood * {
   left: 49%;
-  top: 43%;
+  top: 43.5%;
 }
 #mapArea #harleywood .name {
   margin-left: 2.5%;
@@ -155,11 +161,11 @@ footer {
 }
 #mapArea #romantic2wheel * {
   left: 40%;
-  top: 36%;
+  top: 33%;
 }
 #mapArea #romantic2wheel .name {
-  margin-left: -0.5%;
-  margin-top: 2%;
+  margin-left: 2.5%;
+  margin-top: 0.5%;
 }
 #mapArea #hara * {
   left: 40%;
